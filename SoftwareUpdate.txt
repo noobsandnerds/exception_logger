@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+YOLOv8 INT8 TFLite Inference Example (#7317)
