@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
