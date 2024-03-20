@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
