@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.0.229 add model.embed() method (#7098)
