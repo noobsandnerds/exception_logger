@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Fix OpenVINO missing batch-size bug (#9264)
