@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Capitalize OBB acronym (#7383)
