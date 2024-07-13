@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+fix yolo classify model loading error (#9196)
