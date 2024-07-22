@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
